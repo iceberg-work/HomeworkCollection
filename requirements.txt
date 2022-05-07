@@ -1,2 +1,14 @@
 nose
 sphinx
+# 命令行
+prompt_toolkit
+# 正则
+re
+# 二进制文件读写
+pickle
+# 科学计算
+# numpy
+# 数据分析
+# Panda
+# 绘图
+# Matplotlib
