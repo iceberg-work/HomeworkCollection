@@ -6,6 +6,8 @@ prompt_toolkit
 re
 # 二进制文件读写
 pickle
+# mail
+pymail
 # 科学计算
 # numpy
 # 数据分析
